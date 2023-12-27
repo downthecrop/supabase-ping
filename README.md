@@ -1,4 +1,4 @@
-# My Supabase App
+# Supabase Ping
 
 Node.js application to ping/pulse a Supabase database and writes a random number to a public anonymous table. Useful to prevent your database from being marked to be paused to inactivity.
 
