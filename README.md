@@ -4,7 +4,7 @@ Node.js application to ping/pulse a Supabase database and writes a random number
 
 ## Setup Instructions
 
-2. **Install Dependencies**
+2. **Install Dependencies (Requires Node 16.0+)**
 
    ```bash
    npm install
